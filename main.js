@@ -49,6 +49,4 @@ btnSection.addEventListener("click", (e) => {
       btn.classList.remove("active");
     }
   });
-
-  console.log(selected);
 });
